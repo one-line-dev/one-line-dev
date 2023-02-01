@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **v.shark.t@gmail.com**
 
-- 📄 Know about my experiences [https://cv.djinni.co/2c/a15f768c0770ed629595eebab83bbd/JS_Frontend_Developer_Volodymyr_Okunievskyi.pdf](https://cv.djinni.co/2c/a15f768c0770ed629595eebab83bbd/JS_Frontend_Developer_Volodymyr_Okunievskyi.pdf)
+- 📄 Know about my experiences [https://cv.djinni.co/2c/a15f768c0770ed629595eebab83bbd/JS_Frontend_Developer_Volodymyr_Okunievskyi.pdf](in my resume)
 
 - ⚡ Fun fact **I'm fond of creativity. Especially photography and writing poetry.**
 
