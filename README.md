@@ -1,7 +1,7 @@
 ![MasterHead](https://i.gifer.com/origin/e2/e2aec645e3f805bfeef5468bc9bf3a34.gif)
 <h1 align="center">Hi 👋, I'm Volodymyr Okunievskyi</h1>
 <h3 align="center">A passionate fullstack developer from Ukraine</h3>
-<img align="right" alt="Passionate Saitama" width="400" style="border-radius: 4px;" src="https://i.giphy.com/media/6IkjQmpaRwIabJ2G3C/giphy.webp" />
+<img align="right" alt="Passionate Saitama" width="400" style="border-radius:50%" src="https://i.giphy.com/media/6IkjQmpaRwIabJ2G3C/giphy.webp" />
 
 - 🌱 I’m currently learning **Node.js**
 
