@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences <a href="https://cv.djinni.co/2c/a15f768c0770ed629595eebab83bbd/JS_Frontend_Developer_Volodymyr_Okunievskyi.pdf" title="My resume at Djinni web-site">in my resume<a/>
 
-- ⚡ Fun fact **I'm fond of creativity. Especially photography and writing poetry.**
+- ⚡ Fun fact **I'm fond of creativity and programming gives me one more option to create thomething.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
