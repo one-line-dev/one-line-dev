@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)]
+![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)
 <h1 align="center">Hi 👋, I'm Volodymyr Okunievskyi</h1>
 <h3 align="center">A passionate fullstack developer from Ukraine</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/lD3Q3jF-MWoAAAAM/saitama-one-punch-man.gif" />
