@@ -1,6 +1,6 @@
-![MasterHead](https://i.gifer.com/origin/e2/e2aec645e3f805bfeef5468bc9bf3a34.gif)
-<h1 align="center">Hi 👋, I'm Volodymyr Okunievskyi</h1>
-<h3 align="center">A passionate frontend developer from Ukraine</h3>
+![Header](https://github.com/volodymyr-ok/volodymyr-ok/blob/main/assets/header.gif)
+
+<h1 align="center">Hi 👋, I'm a passionate frontend developer from Ukraine</h1>
 <img align="right" alt="Passionate Saitama" width="400" style="border-radius:50%" src="https://i.giphy.com/media/zdF3lMDlvCYWA/giphy.webp" />
 
 - 🌱 I’m currently learning **Node.js**
@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=volodymyr-ok&show_icons=true&theme=synthwave&locale=en" alt="volodymyr-ok" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=volodymyr-ok&theme=dark" alt="volodymyr-ok" /></p>
-
