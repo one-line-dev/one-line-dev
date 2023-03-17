@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm a passionate frontend developer from Ukraine</h1>
 <img align="right" alt="Passionate Saitama" width="400" style="border-radius:50%" src="https://i.giphy.com/media/zdF3lMDlvCYWA/giphy.webp" />
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **v.shark.t@gmail.com**
 
-- 📄 Know about my experiences <a href="https://cv.djinni.co/2c/a15f768c0770ed629595eebab83bbd/JS_Frontend_Developer_Volodymyr_Okunievskyi.pdf" title="My resume at Djinni web-site">in my resume<a/>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/11PWbjLqb_qiGEIZQE1gBP6REygkevhiG/view?usp=share_link">in my CV<a/>
 
 - ⚡ Fun fact **I'm fond of creativity and programming gives me one more option to create something.**
 
