@@ -1,6 +1,6 @@
 ![Header](https://github.com/volodymyr-ok/volodymyr-ok/blob/main/assets/header.gif)
 
-<h1 align="center">Hi 👋, I'm a passionate frontend developer from Ukraine</h1>
+<h1 align="center">Hi 👋, I'm a passionate fullstack developer from Ukraine</h1>
 <img align="right" alt="Passionate Saitama" width="400" style="border-radius:50%" src="https://i.giphy.com/media/zdF3lMDlvCYWA/giphy.webp" />
 
 - 🌱 I’m currently learning **React Native**
