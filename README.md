@@ -44,5 +44,5 @@
     
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=volodymyr-ok&theme=synthwave" alt="volodymyr-ok" /></p>
   
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=volodymyr-ok&show_icons=true&theme=synthwave&locale=en" alt="volodymyr-ok" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=volodymyr-ok&show_icons=true&theme=synthwave&locale=en" alt="volodymyr-ok" /></p>
    
