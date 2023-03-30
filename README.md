@@ -105,8 +105,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
   </a> 
 </div>
+  
+<hr style="border:2px solid gray">
 
-# 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=volodymyr-ok&show_icons=true&theme=tokyonight&locale=en" alt="volodymyr-ok" height="165" />
   
