@@ -106,13 +106,13 @@
   </a> 
 </div>
   
-<hr style="border:1px solid gray">
+<h2></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=volodymyr-ok&show_icons=true&theme=tokyonight&locale=en" alt="volodymyr-ok" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=volodymyr-ok&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="volodymyr-ok" height="165" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=volodymyr-ok&theme=tokyonight" alt="volodymyr-ok" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=volodymyr-ok&show_icons=true&theme=tokyonight&hide_border=true&" alt="volodymyr-ok" height="165" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=volodymyr-ok&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="volodymyr-ok" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=volodymyr-ok&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="volodymyr-ok" height="165" />
 </div>
    
