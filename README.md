@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently learning **TypeScript**
 
-- 🤝 Know about my me <a href="https://drive.google.com/file/d/11PWbjLqb_qiGEIZQE1gBP6REygkevhiG/view?usp=share_link" target="_blank">in my CV<a/>
+- 🤝 Know about me <a href="https://drive.google.com/file/d/11PWbjLqb_qiGEIZQE1gBP6REygkevhiG/view?usp=share_link" target="_blank">in my CV<a/>
 
 - 🔮 Fun fact **I'm fond of creativity and programming gives me one more option to create something.**
 
