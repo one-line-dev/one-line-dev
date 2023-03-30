@@ -106,7 +106,7 @@
   </a> 
 </div>
   
-<hr style="border:2px solid gray">
+<hr style="border:1px solid gray">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=volodymyr-ok&show_icons=true&theme=tokyonight&locale=en" alt="volodymyr-ok" height="165" />
