@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=229ED9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
   </a>
   
-  <a href="mailto:v.shark.t@gmail.com" target="_blank">
+  <a href="mailto:v.shark.t@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   
