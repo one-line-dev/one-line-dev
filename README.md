@@ -108,10 +108,10 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=volodymyr-ok&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="volodymyr-ok" />
-    
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=volodymyr-ok&theme=synthwave" alt="volodymyr-ok" />
+  <img src="https://github-readme-stats.vercel.app/api?username=volodymyr-ok&show_icons=true&theme=tokyonight&locale=en" alt="volodymyr-ok" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=volodymyr-ok&show_icons=true&theme=synthwave&locale=en" alt="volodymyr-ok" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=volodymyr-ok&theme=tokyonight" alt="volodymyr-ok" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=volodymyr-ok&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="volodymyr-ok" />
 </div>
    
