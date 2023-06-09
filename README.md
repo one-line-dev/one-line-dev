@@ -4,7 +4,7 @@
 
 <img align="right" alt="Passionate Saitama" width="400" style="border-radius:50px" src="https://i.giphy.com/media/zdF3lMDlvCYWA/giphy.webp" />
 
-- 👨‍💻 I’m currently learning **TypeScript & NEXT.js**
+- 👨‍💻 I’m currently learning **GraphQL**
 
 - 🤝 Know about me <a href="https://drive.google.com/file/d/11PWbjLqb_qiGEIZQE1gBP6REygkevhiG/view?usp=share_link" target="_blank">in my CV<a/>
 
@@ -97,13 +97,21 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
   
-<!--   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a> -->
+  </a>
   
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-  </a> 
+  </a>
+  
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  
+<!--   <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
+  </a> -->
 </div>
   
 <h2></h2>
