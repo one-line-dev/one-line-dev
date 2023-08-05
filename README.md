@@ -109,9 +109,9 @@
     <img src="https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg" alt="nextjs" width="40" height="40"/>
   </a>
   
-<!--   <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
+  <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
-  </a> -->
+  </a>
 </div>
   
 <h2></h2>
