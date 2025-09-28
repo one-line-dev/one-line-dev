@@ -6,7 +6,7 @@
 
 - 👨‍💻 I'm an inspired One-Line Developer. I like how developers push commits to the branches at the end of the week. How the backend winds the data. And most of all to see smiles on customer's faces. 
 
-- ❗ If you wanna give me a quest you should <a href="https://drive.google.com/drive/folders/1eFbiRqxrVlnqKpZgZtg0Jr9k7A3p0o2T?usp=sharing" target="_blank">see my CV<a/>
+- ❗ If you wanna give me a quest you should <a href="https://drive.google.com/file/d/1KLjboYZGc5jxww8ZytgxrqAq0-2fTTqu/view?usp=sharing" target="_blank">see my CV<a/>
 
 - 🔮 I know, I'm still a young wizard and my elven isn't perfect, but I practice almost every day to master elven word and become an **Elven Lord** 🌌
 
