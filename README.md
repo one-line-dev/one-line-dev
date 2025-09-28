@@ -1,14 +1,14 @@
 ![Header](https://github.com/volodymyr-ok/volodymyr-ok/blob/main/assets/header.gif)
 
-<h1 align="center">Welcome, I'm an inspired fullstack developer from 💙Ukraine💛</h1>
+<h1 align="center">Uh, hello adventurer❕ Welcome to GitHub Woods🧙‍♂️</h1>
 
 <img align="right" alt="Passionate Saitama" width="400" style="border-radius:50px" src="https://i.giphy.com/media/zdF3lMDlvCYWA/giphy.webp" />
 
-- 👨‍💻 I’m currently learning **GraphQL**
+- 👨‍💻 I'm an inspired One-Line Developer. I like how developers push commits to the branches at the end of the week. How the backend winds the data. And most of all to see smiles on customer's faces. 
 
-- 🤝 Know about me <a href="https://drive.google.com/file/d/11PWbjLqb_qiGEIZQE1gBP6REygkevhiG/view?usp=share_link" target="_blank">in my CV<a/>
+- ❗ If you wanna give me a quest you should <a href="https://drive.google.com/drive/folders/1eFbiRqxrVlnqKpZgZtg0Jr9k7A3p0o2T?usp=sharing" target="_blank">see my CV<a/>
 
-- 🔮 Fun fact **I'm fond of creativity and programming gives me one more option to create something.**
+- 🔮 I know, I'm still a young wizard and my elven isn't perfect, but I practice almost every day to master elven word and become an **Elven Lord** 🌌
 
 <h3 align="left">Connect with me:</h3>
 
@@ -121,10 +121,10 @@
 <h2></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=volodymyr-ok&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="volodymyr-ok" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=one-line-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="one-line-dev" height="165" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=volodymyr-ok&show_icons=true&theme=tokyonight&hide_border=true&" alt="volodymyr-ok" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=one-line-dev&show_icons=true&theme=tokyonight&hide_border=true&" alt="one-line-dev" height="165" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=volodymyr-ok&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="volodymyr-ok" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=one-line-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="one-line-dev" height="165" />
 </div>
    
