@@ -8,7 +8,7 @@
 
 - ❗ If you want to give me a quest, <a href="https://drive.google.com/file/d/1KLjboYZGc5jxww8ZytgxrqAq0-2fTTqu/view?usp=sharing" target="_blank">check out my CV</a>
 
-- 👨‍💻 I know, I'm still a young wizard and my Elvish isn't perfect, but I practice almost every day to master the elven word and become an **Elven Lord** 🌌
+- 👨‍💻 I know, I'm still a young wizard and my Elvish isn't perfect, but I practice almost every day to master the elven word and become an **Elven Nerd** 🌌
 
 <h3 align="left">Connect with me:</h3>
 
