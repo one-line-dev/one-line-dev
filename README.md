@@ -26,7 +26,7 @@
   </a>
 </div>
   
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My inventory:</h3>
 
 <div align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
