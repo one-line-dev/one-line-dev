@@ -4,7 +4,7 @@
 
 <img align="right" alt="Passionate Saitama" width="400" style="border-radius:50px" src="https://i.giphy.com/media/zdF3lMDlvCYWA/giphy.webp" />
 
-- 🧙‍♂️ I'm an inspired "One-Line Developer". I love seeing developers push commits to branches at the end of the week, watching how the backend spins the data, and, above all, seeing the smiles on our customers' faces.
+- 🧙‍♂️ I'm an inspired "One-Line Developer". I love seeing developers push commits to branches at the end of the week, watching how the backend spins the data, and, above all, seeing the smiles on customers' faces.
 
 - ❗ If you want to give me a quest, <a href="https://drive.google.com/file/d/1KLjboYZGc5jxww8ZytgxrqAq0-2fTTqu/view?usp=sharing" target="_blank">check out my CV</a>
 
