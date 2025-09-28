@@ -10,7 +10,7 @@
 
 - 👨‍💻 I know, I'm still a young wizard and my Elvish isn't perfect, but I practice almost every day to master the elven word and become an **Elven Nerd** 🌌
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Fast travels to me:</h3>
 
 <div align="left">
   <a href="https://t.me/iVolodymyrOk" target="_blank">
