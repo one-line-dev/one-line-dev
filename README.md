@@ -1,14 +1,14 @@
 ![Header](https://github.com/volodymyr-ok/volodymyr-ok/blob/main/assets/header.gif)
 
-<h1 align="center">Uh, hello adventurer❕ Welcome to GitHub Woods🧙‍♂️</h1>
+<h1 align="center">Hello wanderer! Welcome to GitHub Woods🔮</h1>
 
 <img align="right" alt="Passionate Saitama" width="400" style="border-radius:50px" src="https://i.giphy.com/media/zdF3lMDlvCYWA/giphy.webp" />
 
-- 👨‍💻 I'm an inspired One-Line Developer. I like how developers push commits to the branches at the end of the week. How the backend winds the data. And most of all to see smiles on customer's faces. 
+- 🧙‍♂️ I'm an inspired "One-Line Developer". I love seeing developers push commits to branches at the end of the week, watching how the backend spins the data, and, above all, seeing the smiles on our customers' faces.
 
-- ❗ If you wanna give me a quest you should <a href="https://drive.google.com/file/d/1KLjboYZGc5jxww8ZytgxrqAq0-2fTTqu/view?usp=sharing" target="_blank">see my CV<a/>
+- ❗ If you want to give me a quest, <a href="https://drive.google.com/file/d/1KLjboYZGc5jxww8ZytgxrqAq0-2fTTqu/view?usp=sharing" target="_blank">check out my CV</a>
 
-- 🔮 I know, I'm still a young wizard and my elven isn't perfect, but I practice almost every day to master elven word and become an **Elven Lord** 🌌
+- 👨‍💻 I know, I'm still a young wizard and my Elvish isn't perfect, but I practice almost every day to master the elven word and become an **Elven Lord** 🌌
 
 <h3 align="left">Connect with me:</h3>
 
