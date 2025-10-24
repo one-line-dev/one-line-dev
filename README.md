@@ -6,7 +6,7 @@
 
 - 👨‍💻 I'm JavaScript engineer with most of my experience in frontend web development. Even so I'm familiar with backend side and mobile development. I'm excited to shortening code into one line, therefore remember me as One-Line Dev 👉
 
-- 🌟 If you're interested in giving me a quest, <a href="https://drive.google.com/file/d/1Ld7vdWyT4tpCyExLJzjK3oKPu6TlJnL8/view?usp=sharing" target="_blank">check out my CV</a>
+- 🌟 If you're interested in giving me a quest, <a href="https://drive.google.com/file/d/1Ld7vdWyT4tpCyExLJzjK3oKPu6TlJnL8/view?usp=sharing" target="_blank" rel="noreferrer">check out my CV</a>
 
 - 🧙‍♂️ I know, I'm still a young wizard and my Elvish isn't perfect, but I practice almost every day to master the elven word and become an **Elven Nerd** 🌌
 
