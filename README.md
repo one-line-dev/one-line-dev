@@ -9,22 +9,6 @@
 - ❗ If you want to give me a quest, <a href="https://drive.google.com/file/d/1Ld7vdWyT4tpCyExLJzjK3oKPu6TlJnL8/view?usp=sharing" target="_blank">check out my CV</a>
 
 - 👨‍💻 I know, I'm still a young wizard and my Elvish isn't perfect, but I practice almost every day to master the elven word and become an **Elven Nerd** 🌌
-
-<h3 align="left">Fast travels to me:</h3>
-
-<div align="left">
-  <a href="https://t.me/iVolodymyrOk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=229ED9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
-  </a>
-
-  <a href="https://discordapp.com/users/852261106436931604" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/volodymyr-okunievskyi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
   
 <h3 align="left">My inventory:</h3>
 
@@ -107,6 +91,22 @@
 
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="graphql" width="40" height="40"/> 
+  </a>
+</div>
+
+<h3 align="left">Fast travels to me:</h3>
+
+<div align="left">
+  <a href="https://t.me/iVolodymyrOk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=229ED9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
+  </a>
+
+  <a href="https://discordapp.com/users/852261106436931604" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/volodymyr-okunievskyi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
   
