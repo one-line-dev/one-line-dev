@@ -1,4 +1,4 @@
-![Header](https://github.com/volodymyr-ok/volodymyr-ok/blob/main/assets/banner.gif)
+![Header](https://github.com/one-line-dev/one-line-dev/blob/main/assets/banner.gif)
 
 <h1 align="center">Hello wanderer! Welcome to GitHub Woods🔮</h1>
 
