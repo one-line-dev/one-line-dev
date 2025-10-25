@@ -4,7 +4,7 @@
 
 <img align="right" alt="Passionate Saitama" width="400" style="border-radius:50px" src="https://i.giphy.com/media/zdF3lMDlvCYWA/giphy.webp" />
 
-- 👨‍💻 I'm a JavaScript engineer with most of my experience in frontend web development. Even so, I'm familiar with backend side and mobile development. I'm excited about shortening code into one line, so remember me as One-Line Dev 👉
+- 👨‍💻 I'm a JavaScript engineer with most of my experience in frontend web development. Even so, I'm familiar with backend side and mobile development. I'm excited about shortening code into one line, so remember me as **One-Line Dev** 👉
 
 - 🌟 If you'd like to give me a quest, <a href="https://drive.google.com/file/d/1Ld7vdWyT4tpCyExLJzjK3oKPu6TlJnL8/view?usp=sharing" target="_blank" rel="noreferrer">check out my CV</a>
 
