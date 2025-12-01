@@ -97,7 +97,7 @@
 <h3 align="right">Fast travels to me:</h3>
 
 <div align="right">
-  <a href="https://t.me/iVolodymyrOk" target="_blank">
+  <a href="https://t.me/OneLineDev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=229ED9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
   </a>
 
